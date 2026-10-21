@@ -2,8 +2,7 @@
 
 Projeto experimental para criar seu próprio sistema de rastreamento GPS utilizando uma VPS, Node.js e comunicação TCP com rastreadores compatíveis com o protocolo GT06.
 
-<img width="1206" height="1381" alt="image" src="https://github.com/user-attachments/assets/c754b39d-4ca5-437a-9234-10490fa1a31f" />
-
+<img width="1172" height="1342" alt="image" src="https://github.com/user-attachments/assets/2086619c-125d-461b-b73e-a53f9a5d27e2" />
 
 ## 🚀 Como começar
 
