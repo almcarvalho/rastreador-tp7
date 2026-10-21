@@ -4,6 +4,11 @@ Projeto experimental para criar seu próprio sistema de rastreamento GPS utiliza
 
 <img width="1172" height="1342" alt="image" src="https://github.com/user-attachments/assets/2086619c-125d-461b-b73e-a53f9a5d27e2" />
 
+Envio de notificações através de webhooks no aplicativo Discord:
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c3e5c176-0605-4970-bf67-86a5d2c8c2fa" />
+
+
 ## 🚀 Como começar
 
 1. **Compre um rastreador GPS**, de preferência desbloqueado, que permita configurar IP e porta do servidor.
