@@ -30,7 +30,9 @@ https://www.wyzehost.com.br/vps
    npm run dev
    ```
 
-   O comando exige um script `dev` configurado no `package.json`.
+   Lembre de renomear o arquivo .env.example para somente .env antes de rodar
+
+   Para parar o terminal utilize ctrl + C
 
 7. **Configure o rastreador via SMS**, apontando para o IP público e a porta da VPS.
 
