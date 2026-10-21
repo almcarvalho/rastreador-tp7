@@ -2,6 +2,8 @@
 
 Projeto experimental para criar seu próprio sistema de rastreamento GPS utilizando uma VPS, Node.js e comunicação TCP com rastreadores compatíveis com o protocolo GT06.
 
+<img width="1127" height="749" alt="image" src="https://github.com/user-attachments/assets/67df1706-44fc-469f-9d2e-af581f2a8c54" />
+
 <img width="1172" height="1342" alt="image" src="https://github.com/user-attachments/assets/2086619c-125d-461b-b73e-a53f9a5d27e2" />
 
 Envio de notificações através de webhooks no aplicativo Discord:
