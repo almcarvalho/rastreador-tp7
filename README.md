@@ -1,6 +1,8 @@
 # 📡 Rastreamento GPS com Servidor Próprio (Node.js)
 
 Projeto experimental para criar seu próprio sistema de rastreamento GPS utilizando uma VPS, Node.js e comunicação TCP com rastreadores compatíveis com o protocolo GT06.
+Eu usei um rastreador J16, atente-se para comprar ele DESBLOQUEADO. A maioria das empresas vende ele bloqueado, sendo necessário pagar pra elas ou geralmente aguardar 3 meses pagando as plataformas deles
+aí eles liberam. Apenas rastreadores desbloqueados você consegue enviar o sms pra alterar ip e porta, os bloqueados você não consegue, precisa desbloquear para permitir mudar.
 
 <img width="1127" height="749" alt="image" src="https://github.com/user-attachments/assets/67df1706-44fc-469f-9d2e-af581f2a8c54" />
 
