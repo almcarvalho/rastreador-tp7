@@ -12,6 +12,9 @@ Envio de notificações através de webhooks no aplicativo Discord:
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c3e5c176-0605-4970-bf67-86a5d2c8c2fa" />
 
+<img width="1616" height="973" alt="image" src="https://github.com/user-attachments/assets/09d90b80-9469-40e2-a55e-397c41502e98" />
+
+
 
 ## 🚀 Como começar
 
